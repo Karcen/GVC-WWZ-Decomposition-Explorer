@@ -1,6 +1,6 @@
 # GVC Explorer · 全球价值链图谱
 
-[English](README_EN.md) · [离线公式手册](docs/formulas_zh.html) · [Jiacheng Zheng](https://karcen.github.io/)
+[English](README.md) · [离线公式手册](docs/formulas_zh.html) · [Jiacheng Zheng](https://karcen.github.io/)
 
 给定出口经济体、进口经济体和出口行业，GVC Explorer 把这笔总出口分成 WWZ 的 16 项。桌面程序读取新的投入产出表；离线网页只读已经算好的结果。二者共用同一套数值和名称。
 
