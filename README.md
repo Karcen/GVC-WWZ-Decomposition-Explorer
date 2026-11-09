@@ -1,6 +1,6 @@
 # GVC Explorer · Trade Atlas
 
-[中文](README.md) · [Offline formula handbook](docs/formulas_en.html) · [Jiacheng Zheng](https://karcen.github.io/)
+[中文](README_CN.md) · [Offline formula handbook](docs/formulas_en.html) · [Jiacheng Zheng](https://karcen.github.io/)
 
 Choose an exporter, its direct importer and a product industry to trace a bilateral export flow through the 16 WWZ components. The desktop application computes new tables; the offline atlas explores a completed run.
 
